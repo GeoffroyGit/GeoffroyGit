@@ -2,7 +2,9 @@
 
 ## Hello :wave:
 
-I'm a French data scientist. I currently study at [Le Wagon](https://github.com/lewagon) data science bootcamp.
+I'm a French data scientist.
+
+I'm currently studing at [Le Wagon](https://github.com/lewagon) data science bootcamp.
 
 ## Take a peak :wink:
 
