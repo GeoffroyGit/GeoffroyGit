@@ -4,14 +4,13 @@
 
 I'm a French data scientist.
 
-I'm currently studing at [Le Wagon](https://github.com/lewagon) data science bootcamp.
+I studied at [Le Wagon](https://github.com/lewagon) data science bootcamp.
 
 ## Take a peak :wink:
 
 You can take a peak at these repos:
 * Our school project: [front end](https://github.com/JulianBreaud/ephesusWeb) and [back end](https://github.com/GeoffroyGit/ephesus)
 * If you're a youtube addict like me :sweat_smile: you might have a use for [this little project](https://github.com/GeoffroyGit/youtubeWatchlist)
-* If you're a student from Le Wagon, you may be interested in [my answer](https://geoffroygit.github.io/referrals/notebooks/data_presentation.slides.html) to [this challenge](https://github.com/GeoffroyGit/referrals)
 * If you need to put colors on maps, you can get inspired [here](https://github.com/GeoffroyGit/abeona)
 
 ## Contact me
